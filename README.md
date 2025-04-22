@@ -1,30 +1,26 @@
-# Hi there, I'm Jabir ALI 👋
+### Hi there, I'm Jabir ALI 👋
 
-## About Me
+## 🧑‍💻 About Me
 
-I'm a data analyst with a passion for creating beautiful visualizations from raw data, and I'm also an aspiring software developer. I always strive to update myself with new technologies. Creating beautiful visualizations from raw data is my passion, and I love writing code when I get bored.
+I'm a passionate tech enthusiast with over **2 years of experience exploring the tech industry**. My journey has taken me from **web development** to the exciting world of **machine learning**. With the rapid growth of AI, I'm currently focused on building and deploying AI-driven projects — many of which you'll find right here on my GitHub.
+
+I’m always aiming to **stand out in a fast-evolving tech landscape** by consistently learning, building, and sharing my work with the world.
 
 ## 🚀 My Projects
 
-Here are some of the projects I've worked on:
+I've published a variety of projects in my repositories — covering everything from frontend development to machine learning applications.  
+Each project includes detailed explanations to help others who share similar interests.  
+If you find something useful or interesting, feel free to **leave a ⭐ and share it** — your support keeps me motivated to dive even deeper into technology!
 
-- **[sales-data-analysis](https://github.com/jabir12-12/sales-data-analysis)**: Analyzed the entire dataset to create insights that provide a detailed description of items sold, profitable locations, and more.
-- **[satarkk](https://github.com/jabir12-12/satarkk)**: An AI application that detects AI scams, unauthorized messages, suspicious links, phone numbers, and more using a complex search engine to help protect users from fraudsters.
+## 🌱 Currently Learning
 
-## 🔧 Skills & Tools
-
-- **Languages**: Java, SQL, Python
-- **Tools**: PowerBI, Tableau, Excel, Jupyter Notebook, VS Code, AI tools for data analysis such as Chartpixel, Vizzle, Data Squirrel
+Right now, I'm diving into **cloud computing** and expanding my skills in **DevOps and cloud infrastructure**.  
+I'm building real-world projects around these topics and sharing them here as I go. Check out my latest repos to follow along!
 
 ## 📫 How to Reach Me
 
 - **Email**: jabirali7975@gmail.com
-- **Twitter**: [@Jabirrraliiiii](https://twitter.com/Jabirrraliiiii)
-
-## 🌱 Currently Learning
-
-I'm currently learning data structures in Java. Always looking to expand my knowledge and skillset to become more efficient in this field.
 
 ## ⚡ Fun Fact
 
-I love to explore the world, but I'm currently immersed in the matrix of the Array world.
+I love to explore the world 🌍 — but for now, I'm happily lost in the matrix of the array world.
