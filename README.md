@@ -1,4 +1,4 @@
-### Hi there, I'm Jabir ALI 👋
+### Hi there, I'm Jabir Ali 👋
 
 ## 🧑‍💻 About Me
 
