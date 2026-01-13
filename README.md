@@ -1,5 +1,5 @@
 ### Hi there, I'm Jabir Ali , 
 
-### Feel free connect with me
+### Feel free to connect with me
 - **Email**: jabirali7975@gmail.com
 
